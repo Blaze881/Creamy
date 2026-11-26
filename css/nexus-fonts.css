@@ -1,0 +1,4 @@
+@font-face{font-family:'Open Sans';font-weight:300;src:local('Open Sans Light'),url(../fonts/OpenSans-Light.ttf) format('truetype')}
+@font-face{font-family:'Open Sans';font-weight:400;src:local('Open Sans'),url(../fonts/OpenSans-Regular.ttf) format('truetype')}
+@font-face{font-family:'Open Sans';font-weight:600;src:local('Open Sans Semibold'),url(../fonts/OpenSans-Semibold.ttf) format('truetype')}
+@font-face{font-family:'Open Sans';font-weight:700;src:local('Open Sans Bold'),url(../fonts/OpenSans-Bold.ttf) format('truetype')}

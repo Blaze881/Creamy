@@ -65,3 +65,7 @@
 .ytp-big{border-radius:10px;background:linear-gradient(#5a5a5a,#222);border:1px solid #777;box-shadow:0 0 8px #000,inset 0 1px 0 rgba(255,255,255,.3);opacity:.95}
 .ytp:hover .ytp-big{background:linear-gradient(#ff4a3d,#b31208);border-color:#ff8a80}
 .ytp:fullscreen .ytp-bar{height:34px}
+
+/* Logo YouTube SVG (You bianco, direttamente sulla barra) */
+.ytp-logo{display:block;margin:0 8px;padding:0;background:none;border:0;box-shadow:none;line-height:0}
+.ytp-logo img{height:17px;width:auto;display:block}

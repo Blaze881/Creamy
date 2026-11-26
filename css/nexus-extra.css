@@ -1,0 +1,6 @@
+.logo-txt{display:block;font:300 34px/40px 'Open Sans',Arial,sans-serif;letter-spacing:1px;color:#555;white-space:nowrap;text-align:center;width:400px;margin-left:-200px !important;left:50%;position:absolute;top:42px;z-index:20;text-transform:uppercase}
+.dark .logo-txt,#header-bg-dark ~ .inner .logo-txt{color:#fff}
+#logo-loading.logo-txt{top:0;margin:0 0 0 -200px !important}
+#hdr-introduction h1{font:300 46px/52px 'Open Sans',Arial,sans-serif;color:#555;text-transform:uppercase;letter-spacing:2px}
+#hdr-introduction h2{font:300 34px/40px 'Open Sans',Arial,sans-serif;color:#777;margin-top:4px}
+#slide-introduction h1,#slide-introduction h2{display:block !important}
